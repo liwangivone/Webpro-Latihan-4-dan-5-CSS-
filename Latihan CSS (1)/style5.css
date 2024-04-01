@@ -1,0 +1,30 @@
+h1 {
+    font-family: Verdana, sans-serif;
+    font-size: 2em;
+    color: #DE101D;
+}
+
+p {
+    font-size: 14px;
+    color: #850F16;
+    font-family: Garamond, Times New Roman, serif;
+}
+
+img {
+    border: 2px solid black;
+    width: 40%;
+}
+
+div {
+    background-color: #DB5B0B;
+    border: 2px solid #8F3C09;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+}
